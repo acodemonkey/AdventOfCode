@@ -2,3 +2,10 @@ bin/*
 .project
 .settings
 .classpath
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
