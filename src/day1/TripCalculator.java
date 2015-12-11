@@ -61,6 +61,9 @@ public class TripCalculator {
 	
 	public static void main(String[] args){
 		System.out.println(calculate("resources/day1.txt"));
+		
+		System.out.println("Math test.");
+		System.out.println(47/3);
 	}
 	
 }
